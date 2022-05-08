@@ -2,6 +2,9 @@
 	margin: 0;
 	padding: 0;
 }
+body{
+	overflow-x: hidden;
+}
 h2{
 	margin-top: 8px;
 }
