@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h2{
+	margin-top: 8px;
+}
+.top-section{
+	padding: 10px;
+}
+
+.navbar{
+	background: transparent;
+	border: none;
+	margin: 0px;
+	padding:0px;
+	color: black;
+}
+#myNavbar a{
+	color: black;
+}
+
+.top-img{
+	display: flex;
+    height: 650px;
+    background: linear-gradient(45deg, #2f25311f, #2f25311f), url(../top-bg.jpg);
+    background-size: 100% 100%;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+}
+.side-image img{
+	width: 100%;
+}
+.blog-content {
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.ffff{
+	padding: 10px 15px;
+	background: grey;
+	color: #000;
+}
+
+.ffff:hover{
+	background: red;
+	color: #fff;
+}
+.copywrite_text {
+    padding: 20px 0;
+    background: #d5d0d0;
+}
